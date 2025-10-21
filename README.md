@@ -2,7 +2,7 @@
 
 ### UwU
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hehepig4&label=Profile views&color=0e75b6&style=flat" alt="hehepig4" /> </p>
+
 
 - 🔭 I'm currently working on **Pursuing Ph.D. Degree at HKUST(GZ)**
 
