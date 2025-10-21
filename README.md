@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Zuohan Wu
 
-<!--
-**hehepig4/hehepig4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UwU
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hehepig4&label=Profile views&color=0e75b6&style=flat" alt="hehepig4" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Pursuing Ph.D. Degree at HKUST(GZ)**
+
+- 🌱 I'm currently learning **DB & AI**
+
+- 📫 How to reach me **zh.wu@connect.hkust-gz.edi.cn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/hehepig4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hehepig4" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
+
