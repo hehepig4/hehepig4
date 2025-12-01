@@ -25,10 +25,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-| <a href="https://github.com/hehepig4/hehepig4" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=hehepig4&show_icons=true&count_private=true&theme=onedark&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/hehepig4/hehepig4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehepig4&layout=compact&count_private=true&theme=onedark&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 
 
